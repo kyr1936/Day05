@@ -12,6 +12,8 @@ public class Student { // 설계도
 	int math;
 	int total;
 	double avg; 
+	
+
 	// 멤버 메서드 선언
 
 }

@@ -47,19 +47,14 @@ public class SchoolMain4 {
 					students[i]=st; // st의 주소를 배열에 넣음
 
 				} 
+				/*
 			}else if(select==2) {
 					System.out.println("전체 정보를 조회합니다.");
 					for(int i=0; i<count; i++) {
 						System.out.println("이름 : " + students[i].name + ", 번호 : " + students[i].num +
 								", 국어 점수 : " + students[i].kor + ", 영어 점수 : " + students[i].eng + 
 								", 수학 점수 : " + students[i].math + ", 총점 : " + students[i].total + ", 평균 : " + students[i].avg);
-						System.out.println("=================================================================================");
-											+ ", 수학 점수 : " + math[i] + ", 영어 점수 : " + eng[i]);
-					}
-					
-					
-					
-					
+
 					
 					
 					
@@ -77,7 +72,8 @@ public class SchoolMain4 {
 							", 국어 점수 : " + students[i].kor + ", 영어 점수 : " + students[i].eng + 
 							", 수학 점수 : " + students[i].math + ", 총점 : " + students[i].total + ", 평균 : " + students[i].avg);
 					System.out.println("=================================================================================");
-
+*/
+			}
 				}
 
 
