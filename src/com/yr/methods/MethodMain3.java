@@ -11,6 +11,7 @@ public class MethodMain3 {
 		System.out.println(n);
 		
 		Product product = new Product();
+		
 		product.price = 700;
 		t3.test2(product);
 		System.out.println(product.price);
