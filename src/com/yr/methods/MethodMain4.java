@@ -1,0 +1,17 @@
+package com.yr.methods;
+
+public class MethodMain4 {
+
+	public static void main(String[] args) {
+		MethodTest4 m4 = new MethodTest4();
+		int num = m4.plus(10,20);  //30<-상수값
+		
+		int[] nums = m4.getNumbers();
+		nums[0] =10;
+		System.out.println(nums[1]);
+		
+		
+	}
+
+	
+}

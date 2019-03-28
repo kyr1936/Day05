@@ -6,6 +6,7 @@ public class SchoolMain5 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		
 		Teacher iu = new Teacher();
 		
 		System.out.println("선생님의 이름을 입력 : ");
@@ -55,9 +56,9 @@ public class SchoolMain5 {
 			}	break;
 			case 2 : 
 				if(iu.students!=null) {
-					v1.listView(students);
+					/*v1.listView(students);
 					
-					System.out.println(students.length);
+					System.out.println(students.length); */
 
 				} else System.out.println("학생 정보가 없습니다.");
 

@@ -4,6 +4,7 @@ public class StudentView {
 	// 메서드명 listView - 학생 정보 전체 출력
 	
 	public void listView(Student[] students) {
+		
 	/*	System.out.println("이름 : " +  + ", 번호 : " +  + 
 				", 국어 점수 : " +  + ", 영어 점수 : " +  + 
 				", 수학 점수 : " +  + ", 총점 : "+  + 
